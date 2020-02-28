@@ -25,7 +25,7 @@ The first dataset I will be using is from the BJS, or the Bureau of Labor Statis
 
 ## Cambridge Criminal Stats 
 
-The second dataset I was looking at is from HUPD, totaling the Cambridge Campus Clery Act Criminal Statistics from 2016-2018. Specifically in this data, I was interested in the "Rape" column and the demographics, such as race, religions, etc. I wonder how many of these sexual assaults on campus have been reported to police, which may be different than the AAU Campus Climate Survey, which has data on most sexual assaults, even the ones that are not reported. This could possibly provide an axis of comparison for assaults reports versus not. 
+The second dataset I was looking at is from HUPD, totaling the Cambridge Campus Clery Act Criminal Statistics from 2016-2018. Specifically in this data, I was interested in the "Rape" column and the demographics, such as race, religions, etc. I wonder how many of these sexual assaults on campus have been reported to police, which may be different than the AAU Campus Climate Survey, which has data on most sexual assaults, even the ones that are not reported. This could possibly provide an axis of comparison for assaults reports versus not. I read in the data from the PDF; however, I still need to perfectly extract the tables, since I had a difficult time doing that. 
 
 # Plan to Proceed
 
