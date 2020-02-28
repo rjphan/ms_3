@@ -9,14 +9,11 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Data websites
+# # GitHub Repo Link
 
-# # Title IX 
+https://github.com/rjphan/ms_3.git
 
-1. https://titleix.harvard.edu/files/titleix/files/harvard_title_ix_odr_2019_annual_report.pdf
-  Annual report
-  Figure 5 on page 29
+# # Data
 
-2. https://titleix.harvard.edu/files/2019_harvard_aau_student_survey_on_sexual_assault_misconduct.pdf
-  Actual data
+The first dataset I will be using is from the BJS, or the Bureau of Labor Statistics, which describes Rape and Sexual Assault Among College Age Females. Because I am interested at looking at sexual assault locations on Harvard's campus, as well as time of the assault, I specifically decided to look at this dataset, which examines the location where the crime occured, activity when the crime occured, and the time of day. It also compares college female students with non-college female persons. However, I am cautious about using this dataset because the sample size is very small (only around 10 people, according to the survey). Perhaps I could incorporate it into 
   
