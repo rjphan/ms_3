@@ -1,0 +1,22 @@
+---
+title: "ms_3"
+author: "Rachel Phan"
+date: "2/20/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Data websites
+
+# # Title IX 
+
+1. https://titleix.harvard.edu/files/titleix/files/harvard_title_ix_odr_2019_annual_report.pdf
+  Annual report
+  Figure 5 on page 29
+
+2. https://titleix.harvard.edu/files/2019_harvard_aau_student_survey_on_sexual_assault_misconduct.pdf
+  Actual data
+  
