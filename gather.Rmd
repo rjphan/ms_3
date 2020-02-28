@@ -10,6 +10,9 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 library(readxl)
 library(readr)
+library(pdftools)
+library(dplyr)
+library(stringr)
 ```
 
 ```{r dataset one, include = FALSE}
@@ -18,12 +21,22 @@ library(readr)
 
 sex_assault_location_and_time <- read_csv("rsavcaf9513at05.csv")
 
-sex_assault_location_and_time %>% 
-  clean_names()
+sex_assault_location_and_time
 
 View(sex_assault_location_and_time)
 
 ```
 
 
+```{r dataset two, include = FALSE}
+
+# Data from https://www.hupd.harvard.edu/files/hupd/files/19_asr_cambridge_campus_criminal_statistics.pdf
+
+cambridge_criminal_stats <- pdf_text("~/gov1005/projects/final-proj/ms_3/19_asr_cambridge_campus_criminal_statistics.pdf") %>% 
+  read_lines() %>% 
+  str_squish()
+
+View(cambridge_criminal_stats)
+
+```
 

@@ -15,17 +15,19 @@ https://github.com/rjphan/ms_3.git
 
 # Data
 
-# # Caveat to My Data
+## Caveat to My Data
 
 Originally, I was scheduled to have a meeting with a staff member from OSAPR to gather data. Specifically, I think she was looking to discuss the American Association of Universities Campus Climate Survey (2019), which can be subsetted to Harvard College Sexual Assault Survey Data, something I cannot get access to alone unless a waiver or proposal of some sort is signed. However, the staff member had to postpone our meeting to next week, so I was unable to acquire that data. Instead, I decided to look at sexual assault statistics nationally, and I might use this data for comparison to Harvard data. 
 
-# # Rape and Sexual Assault Among College Age Females
+## Rape and Sexual Assault Among College Age Females
 
 The first dataset I will be using is from the BJS, or the Bureau of Labor Statistics, which describes Rape and Sexual Assault Among College Age Females. Because I am interested at looking at sexual assault locations on Harvard's campus, as well as time of the assault, I specifically decided to look at this dataset, which examines the location where the crime occured, activity when the crime occured, and the time of day. It also compares college female students with non-college female persons. However, I am cautious about using this dataset because the sample size is very small (only around 10 people, according to the survey). Perhaps I could incorporate it into its large dataset, which includes types of rape and sexual assault, rate of female inrollment in post-secondary education, etc. 
 
-# # 
+## Cambridge Criminal Stats 
 
-# # Plan to Proceed
+The second dataset I was looking at is from HUPD, totaling the Cambridge Campus Clery Act Criminal Statistics from 2016-2018. Specifically in this data, I was interested in the "Rape" column and the demographics, such as race, religions, etc. I wonder how many of these sexual assaults on campus have been reported to police, which may be different than the AAU Campus Climate Survey, which has data on most sexual assaults, even the ones that are not reported. This could possibly provide an axis of comparison for assaults reports versus not. 
+
+# Plan to Proceed
 
 In the upcoming week, I an appointment scheduled to meet with OSAPR and Title IX. I hope to that they can share with me the actual data from the AAU Campus Climate Survey. My overall goal is to create a map of Harvard's campus, which changes between day of the week and time, to show the locations of where sexual assault most commonly occurs. I may also join national data stastics (like the BJS one) with the Harvard data to see how Harvard's locations and times of the assaults compares with national statistics. If the data is attainable, I would also like to see how Harvard's sexual assault statistics and locations compare with other "elite" colleges, such as other Ivy Leagues. I could do so by joining the data together and creating a graphic that shows the frequency of the demographics that are most commonly assaulted. Then I could create maps for each individual "elite" college. 
   
